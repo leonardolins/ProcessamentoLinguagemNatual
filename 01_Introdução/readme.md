@@ -1,2 +1,2 @@
-# Limpeza e processamento de texto
+Contém códigos de limpeza e processamento de texto.
 
